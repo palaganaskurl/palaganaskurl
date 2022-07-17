@@ -13,5 +13,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Side Projects
-- ![favicon](https://user-images.githubusercontent.com/18252435/179404884-573b54d1-c435-4fb4-ba7d-56cc6a0ff020.png)
+- ![favicon](https://user-images.githubusercontent.com/18252435/179404884-573b54d1-c435-4fb4-ba7d-56cc6a0ff020.png|width=100px)
  [Filipino Rhymes](https://filipinorhymes.com/ "Filipino Rhymes")
